@@ -1,4 +1,4 @@
-# How-to-protect-yourself-against-hazards-unfortunate  
+# How to protect yourself against unfortunate hazards
 (Apr - Jul 2019)
 modeling of the arrival of random events by a Poisson process and study of its properties.  
 Ruin theory is considered a branch of risk management in insurance. This corresponds to the study of the probability that an adverse event will occur for an insured under an insurance contract.  
